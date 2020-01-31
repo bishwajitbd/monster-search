@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bishwajitbd/monster-search.git/static/css/main.f6817437.chunk.css",
+    "main.js": "/bishwajitbd/monster-search.git/static/js/main.f773c1b0.chunk.js",
+    "main.js.map": "/bishwajitbd/monster-search.git/static/js/main.f773c1b0.chunk.js.map",
+    "runtime-main.js": "/bishwajitbd/monster-search.git/static/js/runtime-main.433dcab5.js",
+    "runtime-main.js.map": "/bishwajitbd/monster-search.git/static/js/runtime-main.433dcab5.js.map",
+    "static/js/2.7bc5effb.chunk.js": "/bishwajitbd/monster-search.git/static/js/2.7bc5effb.chunk.js",
+    "static/js/2.7bc5effb.chunk.js.map": "/bishwajitbd/monster-search.git/static/js/2.7bc5effb.chunk.js.map",
+    "index.html": "/bishwajitbd/monster-search.git/index.html",
+    "precache-manifest.39b1a05a2771857a0b5674501a12972e.js": "/bishwajitbd/monster-search.git/precache-manifest.39b1a05a2771857a0b5674501a12972e.js",
+    "service-worker.js": "/bishwajitbd/monster-search.git/service-worker.js",
+    "static/css/main.f6817437.chunk.css.map": "/bishwajitbd/monster-search.git/static/css/main.f6817437.chunk.css.map",
+    "static/js/2.7bc5effb.chunk.js.LICENSE": "/bishwajitbd/monster-search.git/static/js/2.7bc5effb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.433dcab5.js",
+    "static/js/2.7bc5effb.chunk.js",
+    "static/css/main.f6817437.chunk.css",
+    "static/js/main.f773c1b0.chunk.js"
+  ]
+}
